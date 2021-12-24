@@ -20,11 +20,11 @@
     }
 .navigation
     {
-        margin-top: 20px;
-        margin-left: 389px;
+        margin-top: auto;
+        margin-left: auto;
         justify-content: space-between;
         display:flex;
-        width: 1110px;
+        width: 100%;
         font-family: Montserrat;
         color:white;
         text-decoration: none;
