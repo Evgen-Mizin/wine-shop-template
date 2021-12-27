@@ -1,5 +1,4 @@
-.info
-    {
+.info {
         padding-top: 30px;
         margin-left: 405px;
         justify-content: space-between;
@@ -12,49 +11,37 @@
         font-size: 13px;
         line-height: 150%;
         color: #FFFFFF;
-    }
-.header 
-    {   
-        background-image: url(img/bgc.png);        
+}
+.header {   
+        background-image: url(img/background.png);        
         width: 1920px; height: 900px; border: none ;
-    }
-.navigation
-    {
-        margin-top: auto;
-        margin-left: auto;
-        justify-content: space-between;
+}
+.navigation {
+        justify-content: center;
         display:flex;
-        width: 100%;
         font-family: Montserrat;
         color:white;
         text-decoration: none;
-
-        padding: 15px;
-    }
-.navigation span a
-    { 
+        margin-top: 30px;
+}
+.navigation span a { 
         color:white;
         text-decoration: none;
         border: 1px solid #FFFFFF;
         padding: 20px 106px 20px 106px;
-    }
-#a1 
-    {
+}
+#a1 {
         border-left: 0px;
-    }
-#a2 
-    {
+}
+#a2 {
         border-right: 0px;
-    }
-.vine
-    {
+}
+.vine {
         margin-top: 589px;
         width: 100%;
         text-align: center; 
-          
-    }
-.vine button 
-    { 
+}
+.vine button { 
         background:#99862A;
         padding: 15px 30px 15px 30px;
         font-family: Montserrat;
@@ -66,25 +53,21 @@
         color: #FFFFFF;
         margin-right: 15px;
         margin-left: 15px;
-    }    
-.bgc
-    {
+}    
+.bgc {
         background-color: #282828;
         width: 1920px; height: 856px; border: none ;
-    }
+}
 
-.bgc-info
-    {
+.bgc-info {
         border: 3px solid #C4C4C4;
         position: absolute;
         width: 1110px;
         height: 656px;
         left: 405px;
         top: 1000px;
-    }
-.bgc-info h2
-    {
-        
+}
+.bgc-info h2 {
         font-family: Playfair Display;
         font-style: normal;
         font-weight: bold;
@@ -92,9 +75,8 @@
         line-height: 150%;
         text-align: center;
         color: #FFFFFF;
-    }
-.bgc-info p
-    {
+}
+.bgc-info p {
         padding-top: 20px;
         padding-left: 192px;
         text-align: center;
@@ -108,31 +90,26 @@
         font-size: 16px;
         line-height: 150%;
         color: #FFFFFF;  
-    }
-.bgc-info img
-    {
+}
+.bgc-info img {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 50px;
-        
-    }
-.vine-description
-    {
+        margin-top: 50px; 
+}
+.vine-description {
         background-color: #E6E3C4;
         width: 1920px; height: 1038px; border: none ;
-       display: flex;
-    }
-.description
-    {
+        display: flex;
+}
+.description {
         display: block;
         margin-left: 400px;
         margin-right: 1070;
         padding-top: 40px;
         margin-bottom: 80px;
-    }
-.description span
-    {
+}
+.description span {
         width: 347px;
         height: 24px;
         left: 405px;
@@ -142,26 +119,21 @@
         font-weight: normal;
         font-size: 16px;
         line-height: 150%;
-        color: #000000;
-        
-    }
-.description h2
-    {
-        
+        color: #000000;   
+}
+.description h2 {
         margin:0%;
         font-family: Playfair Display;
         font-style: normal;
         font-weight: bold;
         font-size: 36px;
         line-height: 150%;
-    }
-.description hr 
-    {
+}
+.description hr {
         margin-top: 30px;
         margin-left: 0%; 
-    }
-.description p
-    {
+}
+.description p {
         margin-top: 30px;
         width: 445px;
         height: 84px;
@@ -172,9 +144,8 @@
         font-weight: normal;
         font-size: 14px;
         line-height: 150%;
-    }
-table
-    {
+}
+table {
         margin-top: 30px;
         height: 228px;
         border-collapse: collapse; 
@@ -184,25 +155,24 @@ table
         font-weight: normal;
         font-size: 14px;
         line-height: 150%; 
-    }
-Td, Th 
-    {
+}
+Td, Th {
         padding: 3px; 
         border: 1px solid black; 
         text-align: center; 
-    }
+}
 table td:first-child {width: 75px;}
+
 table td:last-child {width: 370px;}
-.description table span   
-    {
+
+.description table span {
         font-family: Playfair Display;
         font-style: normal;
         font-weight: bold;
         font-size: 18px;
         line-height: 150%;
-    }
-.description button 
-    {
+}
+.description button {
         margin-top: 45px;
         background:#99862A;
         padding: 15px 30px 15px 30px;
@@ -214,42 +184,35 @@ table td:last-child {width: 370px;}
         text-transform: uppercase;
         color: #FFFFFF;
         text-align: center;
-    }
-.imgs 
-    {width: 700px;}
-.img-first 
-    {    
+}
+.imgs {
+    width: 700px;
+}
+.img-first {    
         padding-top:60px;
         padding-left:120px;
         padding-bottom: 30px;
-    }
-.img-second 
-    {    
-        
+}
+.img-second {    
         padding-left:120px;
-    }
-.img-third 
-    {
+}
+.img-third {
         padding-left:26px;
-    }
-.form 
-    {
+}
+.form {
         background-color: #282828;
         width: 1920px; height: 767px; border: none ;  
         padding-top:100px;
-    }
-.form-border
-    {
+}
+.form-border {
         border: 1px solid #C4C4C4;
         width: 1110px;
         height: 538px;
         text-align: center;
         margin-left: auto;
-        margin-right: auto;
-        
-    }
-.form-border h2
-    {
+        margin-right: auto;  
+}
+.form-border h2 {
         font-family: Playfair Display;
         font-style: normal;
         font-weight: bold;
@@ -257,9 +220,8 @@ table td:last-child {width: 370px;}
         line-height: 150%;
         text-align: center;
         color: #FFFFFF;
-    }
-.form-border p
-    {
+}
+.form-border p {
         font-family: Montserrat;
         font-style: normal;
         font-weight: normal;
@@ -271,10 +233,8 @@ table td:last-child {width: 370px;}
         padding-left:285px;
         padding-top: 20px;
         padding-bottom: 40px;
-    }
-.form-border input
-    {
-        
+}
+.form-border input {
         font-family: Montserrat;
         font-style: normal;
         font-weight: 500;
@@ -282,18 +242,19 @@ table td:last-child {width: 370px;}
         line-height: 150%;
         background-color: #282828;
         color: #FFFFFF;
-    }
-#b1 {width: 250px;}
+}
+#b1 {
+        width: 250px;
+}
 #b2 {
-    width: 250px;
-    margin-left: 30px;
-    }
+        width: 250px;
+        margin-left: 30px;
+}
 #b3 {
-    width: 540px;
-    margin-top: 30px;
-    }
-.form-border button 
-    {
+        width: 540px;
+        margin-top: 30px;
+}
+.form-border button {
         margin-top: 40px;
         width: 541px;
         height: 50px;
@@ -309,17 +270,14 @@ table td:last-child {width: 370px;}
         color: #C4C4C4;
         box-sizing: border-box;
         background: #282828;
-    }
-.footer 
-    {
+}
+.footer {
         width: 1920px;
         height: 220px;
         background: #998431;
         padding-top: 40px;
-    }
-.footer-navigation
-    {
-        
+}
+.footer-navigation {  
         margin-left: 400px;
         justify-content: space-between;
         display:flex;
@@ -328,21 +286,20 @@ table td:last-child {width: 370px;}
         color:white;
         text-decoration: none;
         border-top: 1px solid #FFFFFF;
-        border-bottom: 0px solid #FFFFFF;
         padding: 20px;
     }
-.footer-navigation span a
-    {  
+.footer-navigation span a {  
         color:white;
         text-decoration: none;
         padding: 20px 20px 20px 20px;
-    }
-.footer-info
-    {
-        margin-left: 400px;
-        justify-content: space-between;
+}
+.footer-info {
+        justify-content: center;
         display:flex;
-        width: 1110px;
+        font-family: Montserrat;
+        color:white;
+        text-decoration: none;
+        margin-top: 10px;
         font-family: Montserrat;
         font-style: normal;
         font-weight: 600;
@@ -351,19 +308,14 @@ table td:last-child {width: 370px;}
         color:white;
         text-decoration: none;
         text-transform: uppercase;
-    }
-.footer-info span
-    {
+}
+.footer-info span {
         color:white;
         text-decoration: none;
         border: 1px solid #FFFFFF;
         padding: 20px 88px 20px 88px;
-
-    }
-.footer-info span a
-{
-    color:white;
-    text-decoration: none;
-    
 }
-#xd {justify-content: space-between;}
+.footer-info span a {
+        color:white;
+        text-decoration: none;
+}
